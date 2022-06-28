@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "home-station-mobile",
+    "slug": "home-station-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "home-station-mobile"
+}
